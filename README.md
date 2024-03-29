@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ACKINGSMAN
 - 👀 I’m interested in ... Web Development and CyberSecurity
-- 🌱 I’m currently learning ... Full Stack
+- 🌱 I’m currently learning ... Full Stack Development 
 - 💞️ I’m looking to collaborate on ... JS
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 
 <!---
